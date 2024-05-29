@@ -1,0 +1,16 @@
+C:\Users\alsal\source\repos\Library2\Library2\bin\Debug\Library2.exe.config
+C:\Users\alsal\source\repos\Library2\Library2\bin\Debug\Library2.exe
+C:\Users\alsal\source\repos\Library2\Library2\bin\Debug\Library2.pdb
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.csproj.AssemblyReference.cache
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Properties.Resources.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.csproj.GenerateResource.cache
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.exe
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.pdb
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Main.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Authors.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Books.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Borrowings.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Members.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Publishers.resources
+C:\Users\alsal\source\repos\Library2\Library2\obj\Debug\Library2.Returns.resources
